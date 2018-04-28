@@ -1,13 +1,9 @@
 {
   "name": "react-layout-splitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {},
-  "keywords": [
-    "react",
-    "layout",
-    "split",
-    "splitter"
-  ],
+  "main": "index.js",
+  "keywords": ["react", "layout", "split", "splitter"],
   "author": "Shawn Hsu <rpd11140@gmail.com>",
   "license": "MIT",
   "dependencies": {
